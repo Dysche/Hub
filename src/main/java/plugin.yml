@@ -1,0 +1,5 @@
+name: Hub
+version: 0.01a
+description: The hub plugin for Aspix Network.
+main: com.aspix.hub.Main
+depend: [Cantaloupe]
